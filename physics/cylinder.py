@@ -1,4 +1,4 @@
-from physics import inertia
+from . import inertia
 
 
 class Cylinder(inertia.InertiaObject):

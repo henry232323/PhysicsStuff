@@ -1,6 +1,6 @@
 import math
 
-from physics import physics
+from . import physics
 
 
 class InertiaObject(physics.PhysicsObject):
